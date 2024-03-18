@@ -1,4 +1,4 @@
-//launchOnionRouters.ts
+
 import { simpleOnionRouter } from "./simpleOnionRouter";
 
 export async function launchOnionRouters(n: number) {
