@@ -1,3 +1,4 @@
+//index.ts
 import { launchOnionRouters } from "./onionRouters/launchOnionRouters";
 import { launchRegistry } from "./registry/registry";
 import { launchUsers } from "./users/launchUsers";

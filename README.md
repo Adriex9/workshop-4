@@ -1,3 +1,6 @@
+Use this to install every modules :
+npm install --save-dev jest
+And then you can do the npm run test
 # simple-onion-router-network
 
 Your goal for this exercise is to implement a version of the onion routing protocol we saw in module 5.
